@@ -1,15 +1,15 @@
 # Proyecto de Análisis de Indicadores Socioeconómicos
-# # 1. Introducción
-# # # En un mundo cada vez más interconectado, la comprensión de los indicadores socioeconómicos a nivel global se vuelve esencial para la formulación de políticas efectivas y el desarrollo sostenible. Este proyecto, elaborado por Nicole Lozada Leon, explora diversas métricas que reflejan el estado económico y social de diferentes países, utilizando un enfoque basado en datos.
+## 1. Introducción
+### En un mundo cada vez más interconectado, la comprensión de los indicadores socioeconómicos a nivel global se vuelve esencial para la formulación de políticas efectivas y el desarrollo sostenible. Este proyecto, elaborado por Nicole Lozada Leon, explora diversas métricas que reflejan el estado económico y social de diferentes países, utilizando un enfoque basado en datos.
 
-# # # A través de la recolección y análisis de información relevante, se busca identificar patrones y tendencias que informen decisiones estratégicas en el ámbito socioeconómico. Se emplean variadas técnicas de recolección de datos, incluyendo web scraping, acceso a APIs y el consumo de archivos planos. Las métricas clave incluyen:
+### A través de la recolección y análisis de información relevante, se busca identificar patrones y tendencias que informen decisiones estratégicas en el ámbito socioeconómico. Se emplean variadas técnicas de recolección de datos, incluyendo web scraping, acceso a APIs y el consumo de archivos planos. Las métricas clave incluyen:
 
-# # # Densidad poblacional (Densidad P/Km²)
-# # # Esperanza de vida (EV)
-# # # Acceso a Internet
-# # # Inflación
-# # # Producto Interno Bruto (PIB) de 2023
-# # # La información se clasifica por continente, asegurando una base sólida para el análisis posterior.
+### Densidad poblacional (Densidad P/Km²)
+### Esperanza de vida (EV)
+### Acceso a Internet
+### Inflación
+### Producto Interno Bruto (PIB) de 2023
+### La información se clasifica por continente, asegurando una base sólida para el análisis posterior.
 
 # # 2. Recolección de Datos
 # # # La recolección de datos es fundamental para construir un conjunto de información sólido y confiable. Este proceso comenzó con la búsqueda de archivos planos relevantes, encontrando un CSV en Kaggle titulado “Google Country Information Dataset 2023”, creado por el Data Scientist Nidula Elgiriyewithana. Este conjunto de datos está disponible bajo la licencia “Attribution 4.0 International”.
